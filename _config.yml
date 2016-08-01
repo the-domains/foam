@@ -1,0 +1,14 @@
+layout_spectrum: 0.6469838859047741
+typography_spectrum: 0.14292399701662362
+color:
+  brandStrength: 0.9141429113224149
+  lightness: 0.9617761096451432
+  saturation: 0.8108813855797052
+  rhythmicContrast: 0.2021927183959633
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: FOAM
