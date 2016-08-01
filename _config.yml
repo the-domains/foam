@@ -1,16 +1,16 @@
-typography_spectrum: 0.14292399701662362
+typography_spectrum: 0.9754262831993401
 color:
-  brandStrength: 0.9141429113224149
-  lightness: 0.9617761096451432
-  saturation: 0.8108813855797052
-  rhythmicContrast: 0.2021927183959633
+  brandStrength: 0.04191548703238368
+  lightness: 0.7368069528602064
+  saturation: 0.5362224220298231
+  rhythmicContrast: 0.052890287479385734
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-layout_spectrum: 0.6469838859047741
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+layout_spectrum: 0.6361507314722985
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/46187f5a-22a3-4eb4-923f-327a56cc8c0d.png
 name: FOAM
