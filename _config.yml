@@ -18,5 +18,8 @@ navigation:
   - name: About
     id: 2855f15c-430f-4311-9c07-10a83220969a
     type: content
+  - name: Our services
+    id: 047ecf7d-38ab-4184-bf3d-69ee85536ff9
+    type: content
 title: FOAM
 description: the experience starts here...
