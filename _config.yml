@@ -14,9 +14,6 @@ layout_spectrum: 0.6469838859047741
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/46187f5a-22a3-4eb4-923f-327a56cc8c0d.png
 name: FOAM
-navigation:
-  - name: About
-    url: fo-am.club
-    type: external
+navigation: []
 title: FOAM
 description: the experience starts here...
