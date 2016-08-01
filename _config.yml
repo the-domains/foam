@@ -1,16 +1,16 @@
-typography_spectrum: 0.14292399701662362
+typography_spectrum: 0.06441493961028755
 color:
-  brandStrength: 0.9141429113224149
-  lightness: 0.9617761096451432
-  saturation: 0.8108813855797052
-  rhythmicContrast: 0.2021927183959633
+  brandStrength: 0.4950065554585308
+  lightness: 0.7796925059519708
+  saturation: 0.7367285951040685
+  rhythmicContrast: 0.36361153330653906
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-layout_spectrum: 0.6469838859047741
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+layout_spectrum: 0.8378231623210013
 name: FOAM
 title: FOAM
 description: the experience starts here...
